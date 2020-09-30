@@ -6,11 +6,11 @@ This repository is for the project's **website**: https://covidtracking.com/.
 
 ## Documentation
 
-Additional documentation can be found [at our documentation and Storybook website](https://covid19tracking.github.io/website-docs).
+Additional documentation can be found [at our documentation and Storybook website] (https://covid19tracking.github.io/website-docs).
 
 ## Development
 
-The website is built on [GatsbyJS](https://www.gatsbyjs.org/). If you are not familiar with Gatsby, we suggest checking out their [excellent documentation](hhttps://www.gatsbyjs.org/docs).
+The website is built on [GatsbyJS] (https://www.gatsbyjs.org/). If you are not familiar with Gatsby, we suggest checking out their [excellent documentation](hhttps://www.gatsbyjs.org/docs).
 
 ### Install
 
